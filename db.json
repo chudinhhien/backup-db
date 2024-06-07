@@ -3,8 +3,8 @@
     {
       "id": 1,
       "name": "Giảng dạy",
-      "quantity": 5,
-      "percentage": 100,
+      "quantity": 3,
+      "percentage": 73,
       "target": [
         {
           "name": "Số giờ giảng dạy",
@@ -113,7 +113,7 @@
       "id": 2,
       "name": "Sinh hoạt",
       "percentage": 70,
-      "quantity": 6,
+      "quantity": 2,
       "target": [
         {
           "name": "Số buổi sinh hoạt",
@@ -172,8 +172,8 @@
     {
       "id": 3,
       "name": "Nghiên cứu",
-      "percentage": 30,
-      "quantity": 10,
+      "percentage": 45,
+      "quantity": 2,
       "target": [
         {
           "name": "Số bài nghiên cứu",
